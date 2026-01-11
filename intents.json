@@ -1,0 +1,367 @@
+{
+  "transfer_money": {
+  "description": "Transfer money to another account",
+  "examples": [
+    "transfer money",
+    "send money",
+    "transfer 5000",
+    "send 1000 to account",
+    "transfer ₹5000 to account",
+    "transfer $5000 to account",
+    "send money to 1234567890",
+    "transfer money to account 1234567890"
+  ]
+},
+
+
+  "check_balance": {
+    "description": "Check account balance",
+    "examples": [
+      "check my balance",
+      "how much money do I have",
+      "account balance",
+      "remaining balance",
+      "show balance"
+    ]
+  },
+
+  "mini_statement": {
+    "description": "View recent transactions",
+    "examples": [
+      "show last transactions",
+      "mini statement",
+      "recent payments",
+      "transaction history",
+      "last 5 transactions"
+    ]
+  },
+
+  "block_card": {
+    "description": "Block debit or credit card",
+    "examples": [
+      "block my card",
+      "card lost",
+      "stop my debit card",
+      "freeze my card",
+      "disable card"
+    ]
+  },
+
+  "unblock_card": {
+    "description": "Unblock a previously blocked card",
+    "examples": [
+      "unblock my card",
+      "activate card",
+      "enable my debit card",
+      "resume card usage"
+    ]
+  },
+
+  "change_pin": {
+    "description": "Change debit or credit card PIN",
+    "examples": [
+      "change my pin",
+      "reset card pin",
+      "update atm pin",
+      "forgot my pin"
+    ]
+  },
+
+  "atm_find": {
+    "description": "Find nearby ATM locations",
+    "examples": [
+      "find nearby atm",
+      "nearest atm",
+      "atm near me",
+      "where is atm"
+    ]
+  },
+
+  "branch_locator": {
+    "description": "Locate nearest bank branch",
+    "examples": [
+      "find bank branch",
+      "nearest branch",
+      "branch near me",
+      "bank office location"
+    ]
+  },
+
+  "open_account": {
+    "description": "Open a new bank account",
+    "examples": [
+      "open new account",
+      "create bank account",
+      "open savings account",
+      "new account application"
+    ]
+  },
+
+  "close_account": {
+    "description": "Close an existing bank account",
+    "examples": [
+      "close my account",
+      "account closure",
+      "terminate bank account",
+      "shut my account"
+    ]
+  },
+
+  "loan_status": {
+    "description": "Check loan application status",
+    "examples": [
+      "loan status",
+      "check my loan",
+      "loan approval status",
+      "personal loan status"
+    ]
+  },
+
+  "apply_loan": {
+    "description": "Apply for a loan",
+    "examples": [
+      "apply for loan",
+      "need personal loan",
+      "home loan application",
+      "car loan apply"
+    ]
+  },
+
+  "credit_card_apply": {
+    "description": "Apply for a credit card",
+    "examples": [
+      "apply credit card",
+      "new credit card",
+      "credit card application"
+    ]
+  },
+
+  "credit_card_status": {
+    "description": "Check credit card application status",
+    "examples": [
+      "credit card status",
+      "card application status",
+      "credit card approval"
+    ]
+  },
+
+  "bill_payment": {
+    "description": "Pay utility or service bills",
+    "examples": [
+      "pay electricity bill",
+      "mobile bill payment",
+      "water bill",
+      "internet bill"
+    ]
+  },
+
+  "recharge": {
+    "description": "Recharge mobile or DTH",
+    "examples": [
+      "mobile recharge",
+      "recharge my phone",
+      "dth recharge",
+      "prepaid recharge"
+    ]
+  },
+
+  "international_transfer": {
+    "description": "Transfer money internationally",
+    "examples": [
+      "send money abroad",
+      "international transfer",
+      "wire transfer",
+      "send dollars"
+    ]
+  },
+
+  "currency_exchange": {
+    "description": "Currency exchange rates",
+    "examples": [
+      "exchange rate",
+      "usd to inr",
+      "currency conversion",
+      "forex rates"
+    ]
+  },
+
+  "emi_details": {
+    "description": "Check EMI details",
+    "examples": [
+      "emi details",
+      "monthly installment",
+      "loan emi",
+      "emi schedule"
+    ]
+  },
+
+  "emi_payment": {
+    "description": "Pay EMI",
+    "examples": [
+      "pay emi",
+      "loan installment payment",
+      "emi payment"
+    ]
+  },
+
+  "kyc_status": {
+    "description": "Check KYC status",
+    "examples": [
+      "kyc status",
+      "verify kyc",
+      "is my kyc done"
+    ]
+  },
+
+  "update_kyc": {
+    "description": "Update KYC documents",
+    "examples": [
+      "update kyc",
+      "submit kyc",
+      "upload kyc documents"
+    ]
+  },
+
+  "account_statement": {
+    "description": "Download account statement",
+    "examples": [
+      "account statement",
+      "download statement",
+      "bank statement pdf"
+    ]
+  },
+
+  "cheque_status": {
+    "description": "Check cheque status",
+    "examples": [
+      "cheque status",
+      "check cheque",
+      "cheque cleared"
+    ]
+  },
+
+  "stop_cheque": {
+    "description": "Stop a cheque payment",
+    "examples": [
+      "stop cheque",
+      "cancel cheque",
+      "block cheque payment"
+    ]
+  },
+
+  "investment_options": {
+    "description": "Get investment options",
+    "examples": [
+      "investment plans",
+      "where to invest",
+      "mutual funds",
+      "best investments"
+    ]
+  },
+
+  "fixed_deposit": {
+    "description": "Create or manage fixed deposit",
+    "examples": [
+      "open fd",
+      "fixed deposit",
+      "fd interest rates"
+    ]
+  },
+
+  "recurring_deposit": {
+    "description": "Create or manage recurring deposit",
+    "examples": [
+      "open rd",
+      "recurring deposit",
+      "rd plan"
+    ]
+  },
+
+  "insurance_details": {
+    "description": "Get insurance information",
+    "examples": [
+      "insurance policy",
+      "life insurance",
+      "health insurance"
+    ]
+  },
+
+  "card_limit": {
+    "description": "Check or change card limit",
+    "examples": [
+      "card limit",
+      "increase credit limit",
+      "decrease card limit"
+    ]
+  },
+
+  "transaction_dispute": {
+    "description": "Raise dispute for a transaction",
+    "examples": [
+      "wrong transaction",
+      "dispute payment",
+      "chargeback request"
+    ]
+  },
+
+  "profile_update": {
+    "description": "Update customer profile details",
+    "examples": [
+      "update profile",
+      "change phone number",
+      "update address"
+    ]
+  },
+
+  "nominee_update": {
+    "description": "Add or update nominee",
+    "examples": [
+      "add nominee",
+      "change nominee",
+      "nominee details"
+    ]
+  },
+
+  "logout": {
+    "description": "Logout from banking session",
+    "examples": [
+      "logout",
+      "sign out",
+      "exit banking"
+    ]
+  },
+
+  "greeting": {
+    "description": "User greeting",
+    "examples": [
+      "hi",
+      "hello",
+      "good morning",
+      "good evening"
+    ]
+  },
+
+  "thanks": {
+    "description": "User thanks",
+    "examples": [
+      "thank you",
+      "thanks",
+      "appreciate it"
+    ]
+  },
+
+  "help": {
+    "description": "Ask for help or support",
+    "examples": [
+      "help me",
+      "need assistance",
+      "customer support"
+    ]
+  }
+}
+
+
+
+
+
+

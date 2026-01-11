@@ -1,0 +1,24 @@
+{
+  "check_balance": ["balance", "check balance", "my balance"],
+  "transfer_money": ["transfer", "send money", "pay"],
+  "recent_transactions": ["transactions", "recent transactions"],
+  "block_card": ["block card"],
+  "unblock_card": ["unblock card"],
+  "change_pin": ["change pin"],
+  "loan_status": ["loan status"],
+  "apply_loan": ["apply loan"],
+  "find_atm": ["find atm"],
+  "find_branch": ["find branch"],
+  "credit_limit": ["credit limit"],
+  "mini_statement": ["mini statement"],
+  "emi_calculator": ["emi"],
+  "interest_rate": ["interest rate"],
+  "update_mobile": ["update mobile"],
+  "update_address": ["update address"],
+  "close_account": ["close account"],
+  "fraud_report": ["report fraud"],
+  "card_delivery": ["card delivery"],
+  "account_opening": ["open account"]
+}
+
+

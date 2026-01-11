@@ -1,24 +1,43 @@
-# virtual env
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
 venv/
+bankbot311/
+pyvenv.cfg
 
-# models
+# Environment
+.env
+
+# Databases & runtime files
+*.db
+chat_history.json
+query_history.json
+transaction_history.json
+chat_logs.csv
+
+# Logs & experiments
+logs/
+experiments/
+*.log
+
+# ML models & checkpoints
 models/
 intent_model/
+checkpoint-*/
+*.pt
+*.pth
 *.pkl
 *.safetensors
-checkpoint-*/
 
-# databases
-*.db
-*.sqlite
-*.sqlite3
-
-# logs & csv
-logs/
-*.csv
-
-# secrets
-.env
-.env.*
-
+# Node
+node_modules/
+package-lock.json

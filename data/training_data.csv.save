@@ -1,0 +1,14 @@
+text,intent
+what is my balance,check_balance
+show my balance,check_balance
+check savings balance,check_balance
+how much money do i have,check_balance
+transfer money to friend,transfer_money
+send money,transfer_money
+transfer 500 rupees,transfer_money
+send 1000 to my friend,transfer_money
+block my card,card_block
+my card is lost,card_block
+disable my debit card,card_block
+freeze my card,card_block
+
