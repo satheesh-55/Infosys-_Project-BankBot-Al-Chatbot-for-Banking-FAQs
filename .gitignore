@@ -1,0 +1,24 @@
+# virtual env
+.venv/
+venv/
+
+# models
+models/
+intent_model/
+*.pkl
+*.safetensors
+checkpoint-*/
+
+# databases
+*.db
+*.sqlite
+*.sqlite3
+
+# logs & csv
+logs/
+*.csv
+
+# secrets
+.env
+.env.*
+

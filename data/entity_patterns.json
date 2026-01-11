@@ -1,0 +1,5 @@
+{
+  "amount": "\\b\\d+(?:\\.\\d+)?\\b",
+  "account_type": "\\b(savings|current|salary)\\b",
+  "bank_name": "\\b(hdfc|icici|sbi|axis)\\b"
+}

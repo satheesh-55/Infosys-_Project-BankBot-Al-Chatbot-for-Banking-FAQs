@@ -1,0 +1,12 @@
+streamlit
+flask
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+scikit-learn
+pandas
+numpy
+torch
+transformers
+sentence-transformers
